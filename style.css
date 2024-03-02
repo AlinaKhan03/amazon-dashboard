@@ -247,7 +247,7 @@
 }
 
 .box1-img {
-    background-image: url("box1.jpeg");
+    background-image: url("./assets/box1.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -255,7 +255,7 @@
 }
 
 .box2-img {
-    background-image: url("box2.jpeg");
+    background-image: url("./assets/box2.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -263,7 +263,7 @@
 }
 
 .box3-img {
-    background-image: url("box3.jpeg");
+    background-image: url("./assets/box3.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -271,7 +271,7 @@
 }
 
 .box4-img {
-    background-image: url("box4.jpeg");
+    background-image: url("./assets/box4.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -279,7 +279,7 @@
 }
 
 .box5-img {
-    background-image: url("box5.jpeg");
+    background-image: url("./assets/box5.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -287,7 +287,7 @@
 }
 
 .box6-img {
-    background-image: url("box6.jpeg");
+    background-image: url("./assets/box6.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -295,7 +295,7 @@
 }
 
 .box7-img {
-    background-image: url("box7.jpeg");
+    background-image: url("./assets/box7.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -303,7 +303,7 @@
 }
 
 .box8-img {
-    background-image: url("box8.jpeg");
+    background-image: url("./assets/box8.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -311,7 +311,7 @@
 }
 
 .box9-img {
-    background-image: url("box9.jpeg");
+    background-image: url("./assets/box9.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -319,7 +319,7 @@
 }
 
 .box10-img {
-    background-image: url("box10.jpeg");
+    background-image: url("./assets/box10.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -327,7 +327,7 @@
 }
 
 .box11-img {
-    background-image: url("box11.jpeg");
+    background-image: url("./assets/box11.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -335,7 +335,7 @@
 }
 
 .box12-img {
-    background-image: url("box12.jpeg");
+    background-image: url("./assets/box12.jpeg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -413,7 +413,7 @@ footer {
     height: 50px;
     width: 120px;
     background-size: cover;    
-    background-image: url("amazon_logo.png");
+    background-image: url("./assets/amazon_logo.png");
     border-radius: 5px;
 }
 
