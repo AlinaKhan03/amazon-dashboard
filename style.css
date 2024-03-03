@@ -72,8 +72,8 @@
 
 .search-select {
     background-color: #f3f3f3;
-    width: 50px;
-    text-align: center;
+    width: 100px;
+    text-align: left;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     border: none;
@@ -95,6 +95,10 @@
     border-bottom-right-radius: 3px;
     border: none;
     color: #0f1111;
+}
+
+.option-panel {
+    background-color: #ffff;
 }
 
 .nav-search:hover {
