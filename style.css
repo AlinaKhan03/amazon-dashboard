@@ -16,6 +16,9 @@
 .nav-logo {
     height: 50px;
     width: 120px;
+    border: 1.8px solid rgb(0, 0, 0);
+    padding: 3px;
+    
 }
 
 .logo {
@@ -34,6 +37,10 @@
     padding: 3px;
 }
 
+.nav-address{
+    border: 1.8px solid rgb(0, 0, 0);
+    padding: 3px;
+}
 /* deliver */
 .add1{
     color: #cccccc;
@@ -57,9 +64,10 @@
     display: flex;
     width: 620px;
     height: 40px;
-    border-radius: 3px;
+    border-radius: 7px;
     background-color: pink;
     justify-content: space-evenly;
+    border: 3px solid rgb(0, 0, 0);
 }
 
 .search-select {
@@ -109,9 +117,23 @@
     font-weight: 700;
 }
 
+.nav-sign-in{
+    border: 1.8px solid black;
+    padding: 3px;
+}
+
+.nav-returns-orders{
+    border: 1.8px solid black;
+    padding: 3px;
+}
+
 .cart-text {
     font-size: 0.85rem;
     margin-left: 5px;
+}
+.nav-cart{
+    border: 1.8px solid black;
+    padding: 3px;
 }
 
 /*panel*/
@@ -123,6 +145,8 @@
     align-items: center;
     justify-content: space-evenly;
 }
+
+
 
 .panel-options p{
     display: inline;
@@ -151,7 +175,7 @@
 /*main section*/
 .main-section {
     height: 350px;
-    width: 1303px;
+    width: 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -160,7 +184,7 @@
 /* Styles for the slider container */
 .slider-container {
     height: 350px;
-    width: 1303px;
+    width: 100%;
     margin: auto;
     overflow: hidden;
     background-color: blueviolet;
